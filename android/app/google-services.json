@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312959676918",
+    "project_id": "game-platform-f4626",
+    "storage_bucket": "game-platform-f4626.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312959676918:android:7228dacd5f1ffed19897d7",
+        "android_client_info": {
+          "package_name": "com.gamplatfrom.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsIBlRsERZXBVYRFHVK-zZTP4w9VdQqS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
